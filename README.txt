@@ -10,3 +10,4 @@ eine gesonderte sichere Server-/Datenbank-Anbindung.
 
 Keine privaten JSON-Datensicherungen, Zugangsdaten oder API-Schlüssel in ein
 öffentliches Repository hochladen.
+Test GitHub Pages – 10.11.2026
